@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ebd37be-c0b6-4b0f-9a9e-2db23dfdb25e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dufuna/berlin/babatunde/lekki/MockLekkiPropertyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dufuna/berlin/babatunde/lekki/model/LekkiProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dufuna/berlin/babatunde/lekki/service/LekkiPropertyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dufuna/berlin/babatunde/lekki/service/MockLekkiPropertyService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
